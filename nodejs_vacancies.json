@@ -1,0 +1,258 @@
+[
+    {
+        "vacancy_name": "Baсkend-разработчик (NodeJS, ExpressJS, NestJS)",
+        "area": "Москва",
+        "salary": {
+            "from": 100000,
+            "to": 250000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "status": "Открытая",
+        "address": "",
+        "created_at": "2024-02-14T20:48:12+0300",
+        "vacancy_url": "https://hh.ru/vacancy/93023857",
+        "employer": "Витабуст",
+        "requirement": "Имеет опыт работы с разработкой на <highlighttext>NodeJS</highlighttext> Express или NestJS. Полное знание JavaScript, TypeScript. Знает принципы работы современных API и...",
+        "schedule": "Удаленная работа",
+        "professional_roles": [
+            "Программист, разработчик"
+        ],
+        "experience": "От 1 года до 3 лет",
+        "employment": "Полная занятость"
+    },
+    {
+        "vacancy_name": "Backend Developer (JS / node.js)",
+        "area": "Москва",
+        "salary": {
+            "from": 80000,
+            "to": 100000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "status": "Открытая",
+        "address": "",
+        "created_at": "2024-01-31T12:04:55+0300",
+        "vacancy_url": "https://hh.ru/vacancy/92459470",
+        "employer": "Басенко Виктор Александрович",
+        "requirement": "Опыт фулл-тайм работы. ️ Хорошее знание <highlighttext>NodeJS</highlighttext>, JavaScript. ️ Опыт работы с базами данных. ️ Опыт работы с CRM системами (amoCRM, Битрикс...",
+        "schedule": "Удаленная работа",
+        "professional_roles": [
+            "Программист, разработчик"
+        ],
+        "experience": "От 1 года до 3 лет",
+        "employment": "Полная занятость"
+    },
+    {
+        "vacancy_name": "BackEnd Node.JS developer",
+        "area": "Москва",
+        "salary": null,
+        "status": "Открытая",
+        "address": "",
+        "created_at": "2024-01-23T10:52:53+0300",
+        "vacancy_url": "https://hh.ru/vacancy/89789706",
+        "employer": "Фабрика информационных технологий",
+        "requirement": "Планируем спринтами. Считаем Story Points. Проводим ежедневные планёрки. Ценим самостоятельность, лаконичность, умение делиться знаниями и желание разбираться в новом. ",
+        "schedule": "Удаленная работа",
+        "professional_roles": [
+            "Программист, разработчик"
+        ],
+        "experience": "От 3 до 6 лет",
+        "employment": "Полная занятость"
+    },
+    {
+        "vacancy_name": "Backend-developer (NodeJS/JS/ES6)",
+        "area": "Москва",
+        "salary": {
+            "from": 180000,
+            "to": 210000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "status": "Открытая",
+        "address": "Москва",
+        "created_at": "2024-02-14T18:02:10+0300",
+        "vacancy_url": "https://hh.ru/vacancy/93238712",
+        "employer": "Butler",
+        "requirement": "Требуется опыт работы JS и <highlighttext>NodeJS</highlighttext> от 2 лет, опыт работы с git.",
+        "schedule": "Удаленная работа",
+        "professional_roles": [
+            "Системный инженер"
+        ],
+        "experience": "От 1 года до 3 лет",
+        "employment": "Полная занятость"
+    },
+    {
+        "vacancy_name": "Backend NodeJs-разработчик",
+        "area": "Москва",
+        "salary": {
+            "from": 200000,
+            "to": 300000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "status": "Открытая",
+        "address": "",
+        "created_at": "2024-02-08T20:26:02+0300",
+        "vacancy_url": "https://hh.ru/vacancy/92914899",
+        "employer": "Мигас",
+        "requirement": "Hard skills: Опыт работы с <highlighttext>NodeJs</highlighttext> не менее 3 лет. Знание JavaScript и фреймворков <highlighttext>NodeJs</highlighttext> (Express, Koa, etc.). ",
+        "schedule": "Удаленная работа",
+        "professional_roles": [
+            "Программист, разработчик"
+        ],
+        "experience": "От 3 до 6 лет",
+        "employment": "Полная занятость"
+    },
+    {
+        "vacancy_name": "Middle NodeJS developer",
+        "area": "Москва",
+        "salary": null,
+        "status": "Открытая",
+        "address": "",
+        "created_at": "2024-02-13T15:43:40+0300",
+        "vacancy_url": "https://hh.ru/vacancy/93156390",
+        "employer": "Промэкспертиза",
+        "requirement": "Опыт от 2 лет в коммерческой разработке Backend <highlighttext>Node.js</highlighttext> (JavaScript/TypeScript). Опыт работы с SQL (желательно опыт с ClickHouse). ",
+        "schedule": "Удаленная работа",
+        "professional_roles": [
+            "Программист, разработчик"
+        ],
+        "experience": "От 1 года до 3 лет",
+        "employment": "Полная занятость"
+    },
+    {
+        "vacancy_name": "Web-разработчик (Vue.js, Node.js) удаленно",
+        "area": "Москва",
+        "salary": {
+            "from": 60000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "status": "Открытая",
+        "address": "",
+        "created_at": "2024-02-14T15:34:33+0300",
+        "vacancy_url": "https://hh.ru/vacancy/91889263",
+        "employer": "Студия Ремонтов",
+        "requirement": "Знания JS. Опыт работы с Vue. Опыт работы с <highlighttext>Node.js</highlighttext> и MongoDB. Желание расти и развиваться. Опыт работы с Jquery. ",
+        "schedule": "Удаленная работа",
+        "professional_roles": [
+            "Программист, разработчик"
+        ],
+        "experience": "От 1 года до 3 лет",
+        "employment": "Полная занятость"
+    },
+    {
+        "vacancy_name": "Fullstack developer (Node.js / Vue.js)",
+        "area": "Москва",
+        "salary": null,
+        "status": "Открытая",
+        "address": "Москва",
+        "created_at": "2024-01-25T13:30:53+0300",
+        "vacancy_url": "https://hh.ru/vacancy/92204466",
+        "employer": "ГК ФСК",
+        "requirement": "Опыт работы с библиотеками Sequelize, TypeORM, Prisma. Навыки проектирования систем в микросервисной архитектуре. Будет преимуществом умение работать с S3...",
+        "schedule": "Удаленная работа",
+        "professional_roles": [
+            "Программист, разработчик"
+        ],
+        "experience": "От 3 до 6 лет",
+        "employment": "Полная занятость"
+    },
+    {
+        "vacancy_name": "Fullstack-разработчик (middle)",
+        "area": "Москва",
+        "salary": {
+            "from": 130000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "status": "Открытая",
+        "address": "",
+        "created_at": "2024-02-15T10:36:32+0300",
+        "vacancy_url": "https://hh.ru/vacancy/91997150",
+        "employer": "Darall",
+        "requirement": null,
+        "schedule": "Удаленная работа",
+        "professional_roles": [
+            "Программист, разработчик"
+        ],
+        "experience": "От 3 до 6 лет",
+        "employment": "Полная занятость"
+    },
+    {
+        "vacancy_name": "Backend разработчик (Node JS)",
+        "area": "Киров (Кировская область)",
+        "salary": {
+            "from": 100000,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "status": "Открытая",
+        "address": "Киров",
+        "created_at": "2024-02-12T07:57:59+0300",
+        "vacancy_url": "https://hh.ru/vacancy/87288169",
+        "employer": "Специализированный Застройщик Железно",
+        "requirement": "Чтение и написание технических текстов на английском языке. Написание тестов. Знание основных принципов работы микросервисов. Знание архитектуры <highlighttext>nodejs</highlighttext>, фреймвоки: Sequelize...",
+        "schedule": "Удаленная работа",
+        "professional_roles": [
+            "Программист, разработчик"
+        ],
+        "experience": "От 3 до 6 лет",
+        "employment": "Полная занятость"
+    },
+    {
+        "vacancy_name": "Backend Developer (Node.js)",
+        "area": "Москва",
+        "salary": null,
+        "status": "Открытая",
+        "address": "",
+        "created_at": "2024-02-15T14:25:58+0300",
+        "vacancy_url": "https://hh.ru/vacancy/92210117",
+        "employer": "Destiny.Games",
+        "requirement": "Требования к опыту. 4+ лет коммерческого опыта работы с <highlighttext>NodeJS</highlighttext> / NestJS. Опыт разработки Web API. Понимание клиент-серверного взаимодействия. ",
+        "schedule": "Удаленная работа",
+        "professional_roles": [
+            "Программист, разработчик"
+        ],
+        "experience": "От 3 до 6 лет",
+        "employment": "Полная занятость"
+    },
+    {
+        "vacancy_name": "WebGL Разработчик, удаленно",
+        "area": "Челябинск",
+        "salary": null,
+        "status": "Открытая",
+        "address": "Челябинск",
+        "created_at": "2024-02-14T12:10:14+0300",
+        "vacancy_url": "https://hh.ru/vacancy/90031991",
+        "employer": "Digital Partners Global",
+        "requirement": "Понимание принципов ООП и их применение на практике. Опыт работы с <highlighttext>NodeJS</highlighttext>. Стремятся сделать работу качественно и с энтузиазмом относятся...",
+        "schedule": "Удаленная работа",
+        "professional_roles": [
+            "Программист, разработчик"
+        ],
+        "experience": "От 1 года до 3 лет",
+        "employment": "Частичная занятость"
+    },
+    {
+        "vacancy_name": "Разработчик Node JS и IBM ApiConnect",
+        "area": "Москва",
+        "salary": null,
+        "status": "Открытая",
+        "address": "",
+        "created_at": "2024-02-15T13:36:47+0300",
+        "vacancy_url": "https://hh.ru/vacancy/92205041",
+        "employer": "АФЛТ-Системс",
+        "requirement": "Высшее техническое образование. Опыт работы с популярными СУБД, такими как PostgreSQL. Опыт написания SQL запросов. Знание и понимание ООП\\OOA. ",
+        "schedule": "Удаленная работа",
+        "professional_roles": [
+            "Программист, разработчик"
+        ],
+        "experience": "От 3 до 6 лет",
+        "employment": "Полная занятость"
+    }
+]
